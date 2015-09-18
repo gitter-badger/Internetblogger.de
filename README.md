@@ -1,5 +1,5 @@
-# Internetblogger.de
-Blogging und OpenSource
+# Internetblogger.de - Blogging und OpenSource
+
 Dies ist meine Nicht-Entwickler-Repository, in der ich mich mitteilen möchte. Ich habe es
 erstellt, weil ich doch schon oft meine Issues bei GitHub poste und hierfür einen eigenen
 Account gebraucht habe. Hier hat es keinen Sinn, meine Repository zu downloaden, denn es ist
@@ -14,8 +14,22 @@ antworten. Das Ganze bleibt nach wie vor öffentlich zugänglich, damit jeder mi
 ne Meinung mitteilen kann. Falls ihr Interesse habt, könnt ihr mich verfolgen und meine
 Issues lesen. Das würde mich sehr freuen.
 
-In dem Sinne sei euch hier viel Spass beim Erkunden und dem Meinungsaustausch gewüscht.
+## Meine Projekte
+### Internetblogger.de
+Das Projekt [Internetblogger.de](http://internetblogger.de) ist mein wichtigstes Blogprojekt, welches schon im 9 Jahr seit dem Start ist. Dort poste ich viel über __OpenSource Tools und Projekte__, meine eigene und fremde. Ich mag Internetblogger.de und bin dort regelmässig. 
+Das Internetblogger.de ist ein Wordpress-Blog mit Forum und dem TikiWiki
+### Webmasterwelten.de
+Das Projekt [Webmasterwelten.de](http://webmasterwelten.de) ist mein Hauptboard für bloggende Webmaster und die, die es werden wollen. Dort tauscht sich derzeit eine kleine Gruppe von Mitgliedern aus und lernt voneinander. Ich poste im Forum auch stets und mehr oder weniger regelmässig. Das Webmasterwelten.de ist ein myBB 1.8.6 Projekt und wird bei Bedarf uptodate gehalten. 
+### Yaf-forum.de
+Das Projekt [Yaf-forum.de](http://yaf-forum.de) ist mein Fitness-Board und somit schliesst sich der Kreis mit diesen beiden aktiven Communitys. Alle anderen Boards sind eines internen Charakters und dienen mir dazu, um zu testen und wertvolle Erfahrungen zu sammeln, was meistens ja klappt.
+### TikiWiki
+Das Projekt [TikiWiki](http://internetblogger.de/tikiwiki) ist mein jungster Wiki mit Blog, Forum, dem Linkverzeichnis, den FAQs und einer Bildergalerie. Den TikiWiki nutze ich meistens dafür, um über die Installationen eines CMS zu berichten, zu testen und mich mitzuteilen. Ich poste im Tiki in den Artikeln, dem Forum, den FAQs und dem Blog. Alles hat seine Ordnung, wie es sein sollte. 
 
-by Alexander Liebrecht, Rostocker Blogger und CMS-Liebhaber sowie Wiki und Foren Fan
+# Meine Philosophie im Internet
+>Ich mache nie Krach im Internet und störe auch niemaden, teste in aller Ruhe und bei Laune >meine OpenSource CMS und sorge dafür, dass meine Stammleserschaft immer darüber in Kenntnis >gesetzt wird. So möchte ich es auch in Zukunft handhaben und betreiben.
 
-Rostock, den 18.09.2015 16:07
+Nun sollte das schon reichen und ich wünsche euch hier viel Spass beim Lesen und Erkunden
+
+by Alexander Liebrecht
+
+
