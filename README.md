@@ -25,8 +25,8 @@ Das Projekt [Yaf-forum.de](http://yaf-forum.de) ist mein Fitness-Board und somit
 ### TikiWiki
 Das Projekt [TikiWiki](http://internetblogger.de/tikiwiki) ist mein jungster Wiki mit Blog, Forum, dem Linkverzeichnis, den FAQs und einer Bildergalerie. Den TikiWiki nutze ich meistens dafür, um über die Installationen eines CMS zu berichten, zu testen und mich mitzuteilen. Ich poste im Tiki in den Artikeln, dem Forum, den FAQs und dem Blog. Alles hat seine Ordnung, wie es sein sollte. 
 
-# Meine Philosophie im Internet
->Ich mache nie Krach im Internet und störe auch niemaden, teste in aller Ruhe und bei Laune >meine OpenSource CMS und sorge dafür, dass meine Stammleserschaft immer darüber in Kenntnis >gesetzt wird. So möchte ich es auch in Zukunft handhaben und betreiben.
+## Meine Philosophie im Internet
+>Ich mache nie Krach im Internet und störe auch niemaden, teste in aller Ruhe und bei Laune meine OpenSource CMS und sorge dafür, dass meine Stammleserschaft immer darüber in Kenntnis gesetzt wird. So möchte ich es auch in Zukunft handhaben und betreiben.
 
 Nun sollte das schon reichen und ich wünsche euch hier viel Spass beim Lesen und Erkunden
 
