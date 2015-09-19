@@ -31,11 +31,11 @@ Das Projekt [TikiWiki](http://internetblogger.de/tikiwiki) ist mein jungster Wik
 Nun sollte das schon reichen und ich wünsche euch hier viel Spass beim Lesen und Erkunden
 
 ## Impressum
-Alexander Liebrecht
-Alte Warnemünder Chaussee 25
-D-18109 Rostock, Germany
-Tel: 0049-0381-33795190
-Mail: power_sash@gmx[dot]net
+Alexander Liebrecht<br>
+Alte Warnemünder Chaussee 25<br>
+D-18109 Rostock, Germany<br>
+Tel: 0049-0381-33795190<br>
+Mail: power_sash@gmx[dot]net<br>
 WWW: [internetblogger.de](http://internetblogger.de)
 
 
