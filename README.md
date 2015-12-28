@@ -1,5 +1,7 @@
 # Internetblogger.de - Blogging und OpenSource
 
+[![Join the chat at https://gitter.im/AlexL777/Internetblogger.de](https://badges.gitter.im/AlexL777/Internetblogger.de.svg)](https://gitter.im/AlexL777/Internetblogger.de?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Dies ist meine Nicht-Entwickler-Repository, in der ich mich mitteilen möchte. Ich habe es
 erstellt, weil ich doch schon oft meine Issues bei GitHub poste und hierfür einen eigenen
 Account gebraucht habe. Hier hat es keinen Sinn, meine Repository zu downloaden, denn es ist
